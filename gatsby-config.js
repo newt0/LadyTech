@@ -7,7 +7,7 @@ module.exports = {
     ],
     title: "LADYTECH",
     description: "Lady Techは女性のためのITメディアです。",
-    siteUrl: "https://tyra-starter.netlify.com",
+    siteUrl: "https://ladytech.netlify.app/",
     homepageHeader: "Welcome to Your New Blog",
     homepageAbout: "Lady Techは女性のためのITメディアです。",
     mailChimpUrl: "https://mailchimp.com",
