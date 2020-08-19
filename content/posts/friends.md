@@ -1,7 +1,7 @@
 ---
 
 type: "post"
-title: "【夫より役立つ】育児に必須のIoTデバイス5選"
+title: "プログラミングってどうやって勉強すれば良いの？【子猫と学ぶプログラミング(第一回)】"
 author: "Jane Doe"
 category: "lifestyle"
 date: "2018-01-02"

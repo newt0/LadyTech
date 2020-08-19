@@ -1,7 +1,7 @@
 ---
 
 type: "post"
-title: "文系女子校からMicroSoftに！?最前線の女性エンジニアにインタビュー♡"
+title: "文系女子校からMicroSoftに！?トップクラスの女性エンジニアにインタビュー♡"
 author: "Jane Doe"
 category: "makeup"
 date: "2018-01-01"
