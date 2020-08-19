@@ -2,10 +2,37 @@
 
 type: "copy"
 name: "about__bio"
-title: "Tyra is a fast, feminine, and chic Gatsby.js Starter. Kickstart your online presence, powered by React."
+title: "Lady Techは女性のためを追求した、日本初のITメディアです。"
 
 ---
 
-Built on a strong foundation of React and Gatsby, Tyra is a modern, sleek, and _fast_ template for a blog. Created with an emphasis on SEO and the goal of showcasing content, Tyra is the perfect starter for creating your new project.
+*(ビジネスVer.)*
 
-Tyra is MIT Licensed, and so works well as a starting point, a springboard, or even a finished product.
+MERYやTrillのように、女性をターゲットとして成功したメディアは数多くあります。それらは多様なジャンル中で膨大なコンテンツを扱っていますが、唯一「IT」についてだけは手薄です。
+
+また、従来のITメディアは作り手側・受け手側共に男性目線で、女性の視点が置き去りにされていました。
+
+Lady Techでは「女性の求めるコンテンツを、女性に最適なカタチ」でお届けします。
+
+*(ポエムVer.)*
+
+日本のITの主役は男ばかりだった。
+これからのITは、女が強い。
+
+
+*(ベネフィットライティングVer.)*
+
+>*「スマートフォンやPCはどれを選べば良いの？」*
+
+貴女にぴったりの一台、見つかります。
+
+>*「女性でもエンジニアになれる？」*
+
+最適な勉強方法。最短のルート。あります。
+
+>*「キャリアも家庭も両立したいけど、東京じゃ無理かな？」*
+
+テクノロジーがあなたの仕事を家庭を支える、第三のパートナーです。
+
+
+頑張る貴女を頑張らせないために。女性のためのITメディア、Lady Tech。
