@@ -1,7 +1,7 @@
 ---
 
 type: "post"
-title: "Must-Have Products Selected by Tyra's Editors"
+title: "プログラミングってどうやって勉強すれば良いの？【猫と学ぶプログラミング(第一回)】"
 author: "Jane Doe"
 category: "makeup"
 date: "2018-01-04"
